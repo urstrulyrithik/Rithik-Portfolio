@@ -29,7 +29,7 @@ const items = [
     id: 4,
     title: "My Portfolio Site",
     img: "./PortfolioHero.png",
-    projectLink:"https://github.com/urstrulyrithik/rithik-covidWebsite",
+    projectLink:"https://github.com/urstrulyrithik/Rithik-Portfolio",
     description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique aspernatur libero numquam delectus neque tempore, facilis illum sed possimus totam dolores ipsum alias, rem officiis autem esse eius minus molestiae."
   },
 ]
