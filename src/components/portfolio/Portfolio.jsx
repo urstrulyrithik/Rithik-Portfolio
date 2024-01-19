@@ -30,7 +30,7 @@ const items = [
     title: "My Portfolio Site",
     img: "./PortfolioHero.png",
     projectLink:"https://github.com/urstrulyrithik/Rithik-Portfolio",
-    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique aspernatur libero numquam delectus neque tempore, facilis illum sed possimus totam dolores ipsum alias, rem officiis autem esse eius minus molestiae."
+    description: "I've crafted my personal portfolio website using the ReactJS framework, enhanced with Framer Motion for seamless animations, SCSS for stylish design, and Javascript for dynamic functionality. Feel free to reach out by sending an email through the contact section located at the end of the website."
   },
 ]
 
