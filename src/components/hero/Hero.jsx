@@ -55,7 +55,7 @@ const Hero = () => {
                     animate="animate"
                 >
                     <motion.h2 variants={textVariants}>RITHIK REDDY</motion.h2>
-                    <motion.h1 variants={textVariants}>Software Developer / Full Stack Aspirant</motion.h1>
+                    <motion.h1 variants={textVariants}>Data Analyst / Software Developer</motion.h1>
                     <motion.div className="buttons">
                         <motion.button variants={textVariants} onClick={scrollToPortfolio}>See the Latest Works</motion.button>
                         <motion.button variants={textVariants} onClick={scrollToContact}>Contact Me</motion.button>
