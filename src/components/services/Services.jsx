@@ -70,9 +70,9 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Data Structures And Algorithms</h2>
+          <h2>Data Analyst</h2>
           <p>
-            I have solved more than 450 problems on leetcode covering DSA problems related to tress, graphs, dynamic programming, linked lists, heaps etc and I am certified by AlgoExpert in Data Structures and Algorithms.
+            I am sn accomplished Data Analyst with experience in data extraction, analysis, and visualization, proficient in Python, R, SQL, and Tableau, delivering impactful insights and data-driven solutions to enhance business growth. Scroll down to portfolio section to find some of my major projects.
           </p>
           {/* <button>Go</button> */}
         </motion.div>
