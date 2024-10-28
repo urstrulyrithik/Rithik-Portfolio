@@ -8,7 +8,7 @@ const items = [
     id: 1,
     title: "Customer Insights Analyst Intern at Star Health",
     projectLink:"https://github.com/urstrulyrithik",
-    img: "./CustomerAnalyst.jpg",
+    img: "./BankAnalyst.png",
     description: "Designed and developed a Covid Website Using Full Stack Development from end to end using React JS, SQL and Express JS and CSS, whose objective is to display statistics and content regarding the pandemic and the Corona virus to users."
   },
   {
