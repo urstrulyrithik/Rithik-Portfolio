@@ -8,32 +8,39 @@ const items = [
     id: 1,
     title: "Customer Insights Analyst Intern at Star Health",
     projectLink:"https://github.com/urstrulyrithik",
-    img: "./BankAnalyst.png",
-    description: "Designed and developed a Covid Website Using Full Stack Development from end to end using React JS, SQL and Express JS and CSS, whose objective is to display statistics and content regarding the pandemic and the Corona virus to users."
-  },
+    img: "./CustomerAnalyst.jpg",
+    description: "Extracted, transformed, and loaded policyholder and transactional data into AWS MySQL databases using Informatica PowerCenter, leveraging SAS, Pandas, and NumPy to analyze trends and identify high-risk churn segments. Built logistic regression models with 80% accuracy, reducing churn by 10% and preventing $500K in lost premiums through targeted retention campaigns supported by Tableau and Power BI dashboards."
+  },    
   {
     id: 2,
+    title: "Junior Operations Data Analyst Intern at Flipkart",
+    projectLink:"https://github.com/urstrulyrithik",
+    img: "./OperationsAnalyst.jpg",
+    description: "Automated ETL processes for over 1 million data rows, developed predictive models achieving 85% forecast accuracy, and reduced excess inventory by 15%, saving $96K annually while preventing stockouts and retaining $120K in revenue. Built interactive Tableau dashboards hosted on AWS to improve store visibility, reduce decision-making time by 40%, and contribute to 7% annual revenue growth."
+  },
+  {
+    id: 3,
     title: "Covid Webiste Using Full Stack Web",
     projectLink:"https://github.com/urstrulyrithik/rithik-covidWebsite",
     img: "https://images.pexels.com/photos/3992933/pexels-photo-3992933.jpeg?auto=compress&cs=tinysrgb&w=1600",
     description: "Designed and developed a Covid Website Using Full Stack Development from end to end using React JS, SQL and Express JS and CSS, whose objective is to display statistics and content regarding the pandemic and the Corona virus to users."
   },
   {
-    id: 3,
+    id: 4,
     title: "Jobby App",
     projectLink:"https://rithikjobbyapp.ccbp.tech/login",
     img: "https://images.pexels.com/photos/392018/pexels-photo-392018.jpeg?auto=compress&cs=tinysrgb&w=1600",
     description: "Designed and developed Jobby App, a front-end ReactJS website for PC users, whose objective is to enable users to discover the jobs they seek. CREDENTIALS--> USERNAME: rahul ; PASSWORD: rahul@2021"
   },
   {
-    id: 4,
+    id: 5,
     title: "Twitter Backend Clone",
     projectLink:"https://github.com/urstrulyrithik/TwitterClone",
     img: "https://images.pexels.com/photos/5417837/pexels-photo-5417837.jpeg?auto=compress&cs=tinysrgb&w=1600",
     description: "Designed Backend Twitter Clone REST APIs to recreate and carry out Twitter's backend database CRUD operations using JSON format, MySQL and Node JS (Express JS)"
   },
   {
-    id: 5,
+    id: 6,
     title: "My Portfolio Site",
     img: "./PortfolioHero.png",
     projectLink:"https://github.com/urstrulyrithik/Rithik-Portfolio",
