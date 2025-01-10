@@ -72,7 +72,7 @@ const Services = () => {
         >
           <h2>Data Analyst</h2>
           <p>
-            I am sn accomplished Data Analyst with experience in data extraction, analysis, and visualization, proficient in Python, R, SQL, and Tableau, delivering impactful insights and data-driven solutions to enhance business growth. Scroll down to portfolio section to find some of my major projects.
+            I am an accomplished Data Analyst with experience in data extraction, analysis, and visualization, proficient in Python, R, SQL, and Tableau, delivering impactful insights and data-driven solutions to enhance business growth. Scroll down to portfolio section to find some of my major projects.
           </p>
           {/* <button>Go</button> */}
         </motion.div>
