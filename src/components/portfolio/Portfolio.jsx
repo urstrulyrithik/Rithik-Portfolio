@@ -16,14 +16,14 @@ const items = [
     title: "Data Analyst at Star Health Allied Insurance",
     projectLink:"https://github.com/urstrulyrithik",
     img: "./CustomerAnalyst.jpg",
-    description: "Extracted and consolidated customer data from Snowflake, AWS RDS, and Amazon S3 using SQL and Python. Cleaned and analyzed data with Pandas and NumPy, and Excel for data validation, identifying churn risks and trends. Built logistic regression models (80% accuracy) to predict cancellations, reducing churn by 10% and saving $500K in premiums through targeted retention campaigns. Collaborated with marketing teams to design dashboards in Tableau and Power BI to communicate and implement multi-channel campaigns, driving data-driven decisions and improving customer retention rates."
+    description: "I extracted and consolidated customer data from Snowflake, AWS RDS, and Amazon S3 using SQL and Python. Using Pandas, NumPy, and Excel, I cleaned and analyzed the data to identify churn risks and trends. I developed logistic regression models with 80% accuracy to predict cancellations, leading to a 10% reduction in churn and saving $500K in premiums through targeted retention campaigns. Additionally, I worked closely with marketing teams to design dashboards in Tableau and Power BI, driving data-driven decisions that improved customer retention rates by 80%."
   },    
   {
     id: 3,
     title: "Operations Data Analyst at Flipkart",
     projectLink:"https://github.com/urstrulyrithik",
     img: "./OperationsAnalyst.jpg",
-    description: "•	Automated ETL processes to centralize over 1M data rows in Snowflake, reducing manual data entry by 30%. Cleaned and transformed data using SAS and SQL, developing Linear Regression and ARIMA models with 85% forecast accuracy, reducing MAPE by 12%. Optimized inventory management by reducing excess stock and preventing stockouts, leading to annual savings of $96K and safeguarding $120K in revenue. Designed Tableau dashboards for 50+ stores, hosted on AWS EC2 with Amazon S3, improving decision-making efficiency by 40% and driving a 7% revenue boost through store-level insights."
+    description: "I automated ETL processes to centralize over 1M data rows in Snowflake, reducing manual data entry by 30%. Using SAS and SQL, I cleaned and transformed data to develop Linear Regression and ARIMA models with 85% forecast accuracy, lowering MAPE by 12%. My optimization of inventory management helped reduce excess stock and prevent stockouts, saving $96K annually and safeguarding $120K in revenue. Additionally, I developed comprehensive Tableau dashboards for over 50 retail locations using AWS EC2 and Amazon S3, which enhanced data-driven decisions and improved operational performance by 40%."
   },
   {
     id: 4,
