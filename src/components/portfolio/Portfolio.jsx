@@ -8,7 +8,7 @@ const items = [
     id: 1,
     title: " Healthcare Data Analyst at Apollo Hospitals",
     projectLink:"https://github.com/urstrulyrithik",
-    img: "./CustomerAnalyst.jpg",
+    img: "./HealthcareDAImage.jpg",
     description: "As a Healthcare Data Analyst, I leveraged machine learning models built with TensorFlow and PyTorch to predict patient readmission risks with 87% accuracy, contributing to a 12% reduction in hospital readmissions. I streamlined the extraction and transformation of over 5 million patient records from MongoDB and Snowflake into a centralized analytics platform, cutting data processing time by 40%. Additionally, I conducted exploratory data analysis (EDA) on treatment adherence data using Python and Pandas, driving a 15% improvement in patient adherence rates. I also designed dynamic dashboards in Excel, improving clinical decision-making efficiency by 25%."
   },
     {
