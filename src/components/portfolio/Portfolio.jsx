@@ -30,7 +30,7 @@ const items = [
     title: "Software Developer Intern",
     projectLink:"https://github.com/urstrulyrithik",
     img: "./bbSDE.jpg",
-    description: "During my internships at BigBasket, I contributed to high-impact projects that significantly enhanced both user experience and backend efficiency. I optimized the main website’s shopping cart and checkout modules using React, Node.js/Express, and SQL—achieving a 30% reduction in page load times and a 15% boost in completed transactions. Additionally, I developed a next-generation inventory management system with React, Node.js, Express, and MongoDB, which improved real-time stock tracking and reduced inventory discrepancies by 30% across 30+ retail locations. By collaborating with cross-functional teams and leveraging Agile methodologies, I implemented robust CI/CD pipelines and automated testing frameworks that ensured system reliability and scalability, even during high-traffic periods."
+    description: "During my internships at BigBasket, I contributed to high-impact projects that significantly enhanced both user experience and backend efficiency. I optimized the main website’s shopping cart and checkout modules using React, Node.js/Express, and SQL—achieving a 30% reduction in page load times and a 15% boost in completed transactions. Additionally, I developed a next-generation inventory management system with React, Node.js, Express, and MongoDB, which improved real-time stock tracking and reduced inventory discrepancies by 30% across 30+ retail locations. I implemented robust CI/CD pipelines and automated testing frameworks that ensured system reliability and scalability, even during high-traffic periods."
   },
   {
     id: 5,
@@ -65,14 +65,14 @@ const items = [
     title: "Jobby App",
     projectLink:"https://rithikjobbyapp.ccbp.tech/login",
     img: "https://images.pexels.com/photos/392018/pexels-photo-392018.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    description: "Designed and developed Jobby App, a front-end ReactJS website for PC users, whose objective is to enable users to discover the jobs they seek. CREDENTIALS--> USERNAME: rahul ; PASSWORD: rahul@2021"
+    description: "In this project, I developed a comprehensive job-hunting platform designed to streamline the application process for users. I built an intuitive ReactJS frontend that features interactive dashboards, allowing applicants to easily navigate job listings, track application progress, and manage their profiles. On the backend, I implemented a robust Node.js and Express.js server, leveraging MySQL and JSON to provide real-time job listings, sophisticated filtering options, and efficient profile management. This integration reduced manual steps by 40%, significantly enhancing the overall user experience. CREDENTIALS--> USERNAME: rahul ; PASSWORD: rahul@2021"
   },
   {
     id: 10,
     title: "Twitter Backend Clone",
     projectLink:"https://github.com/urstrulyrithik/TwitterClone",
     img: "https://images.pexels.com/photos/5417837/pexels-photo-5417837.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    description: "Designed Backend Twitter Clone REST APIs to recreate and carry out Twitter's backend database CRUD operations using JSON format, MySQL and Node JS (Express JS)"
+    description: "I developed a comprehensive Twitter clone backend that mimics core functionalities of the popular social media platform. Using Node.js and Express.js, I built a suite of RESTful APIs capable of handling full CRUD operations for tweets, likes, and follows. My implementation leveraged MySQL for efficient data storage and retrieval, ensuring robust management of relationships and high-performance query processing. To secure the application, I integrated JSON Web Tokens (JWT) for authentication and authorization, safeguarding user data and ensuring that each API endpoint was protected from unauthorized access."
   },
   {
     id: 11,
