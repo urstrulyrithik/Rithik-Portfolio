@@ -60,7 +60,18 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Full Stack Development</h2>
+          <h2>Data Analyst</h2>
+          <p>
+            
+            I am an accomplished Data Analyst with experience in data extraction, analysis, and visualization, proficient in Python, R, SQL, and Tableau, delivering impactful insights and data-driven solutions to enhance business growth. Scroll down to portfolio section to find some of my major projects.
+          </p>
+          {/* <button>Go</button> */}
+        </motion.div>
+        <motion.div
+          className="box"
+          whileHover={{ background: "lightgray", color: "black" }}
+        >
+          <h2>Full Stack Developer</h2>
           <p>
             I am a full stack developer with expertise in ReactJS, ExpressJS, NodeJS, SQL, Python, HTML5 and CSS. Scroll down to portfolio section to find some of my major projects.
           </p>
@@ -70,17 +81,7 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Data Analyst</h2>
-          <p>
-            I am an accomplished Data Analyst with experience in data extraction, analysis, and visualization, proficient in Python, R, SQL, and Tableau, delivering impactful insights and data-driven solutions to enhance business growth. Scroll down to portfolio section to find some of my major projects.
-          </p>
-          {/* <button>Go</button> */}
-        </motion.div>
-        <motion.div
-          className="box"
-          whileHover={{ background: "lightgray", color: "black" }}
-        >
-          <h2>Systems Design</h2>
+          <h2>Systems Designer</h2>
           <p>
           I have designed a rapid and global code deployment system, Amazon's e-commerce operations, stock-broker platform linking end-customers with central stock exchanges, functionalities for Netflix and Facebook News Feed, a refrigerator item expiry tracking app and many more.
           </p>
@@ -90,7 +91,7 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>AWS Cloud</h2>
+          <h2>AWS Cloud Practitioner</h2>
           <p>
             Completed AWS Certifications in cloud foundations, cloud architecture, cloud operations, cloud developing, and cloud build and deployment of website.
           </p>
